@@ -1,8 +1,24 @@
-# React + Vite
+# 📬 University Suggestion Box
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A lightweight web app that allows users to submit anonymous suggestions or feedback — built with **PHP** and **MySQL** for simplicity and speed!
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Anonymous Suggestion Submissions**: Users can submit feedback without revealing their identity.
+- **Clean and Responsive UI**: Designed to work seamlessly across all devices.
+- **Admin Panel**: (Optional) Allows administrators to view and manage suggestions.
+- **Easy Setup and Deployment**: Can be set up on any PHP-enabled server effortlessly.
+
+## 🛠 Tech Stack
+
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: PHP
+- **Database**: MySQL
+
+## 🚀 Getting Started
+
+Follow these steps to set up the project locally or on your hosting server:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/DavidManiIbrahim/online-suggestion-box.git
